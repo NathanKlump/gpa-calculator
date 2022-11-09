@@ -1,3 +1,7 @@
+This project was created to be integrated with Banner-LDAP-api and may not run as intended if cloned onto a local machine.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
